@@ -8,6 +8,10 @@ Implementation of challenge from Front End Mentor.
 -Responsive   
 -Created with Vue & SASS
 
+## Links
+
+- Live Site URL: [https://antco25.github.io/frontendmentor-3/](https://antco25.github.io/frontendmentor-3/)
+
 ## How to run
 
 1 - Clone repo  
@@ -16,3 +20,7 @@ Implementation of challenge from Front End Mentor.
 
 ## Screenshots
 ![](images/screen.gif)
+
+## Author
+
+- [My Portfolio](https://antco25.github.io)
